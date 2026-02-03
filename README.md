@@ -1,3 +1,3 @@
 # file-perm-implementation
 
-This project demonstrates how operating file system permissions work at a toy level.
+This project uses combination of bit shifts and bit masking to demonstrate a small-scale implementation of file system permission.
